@@ -20,3 +20,5 @@ animais = 'Gatos'
 print(idade)
 
 print(f'Tenho esses animais: {animais}')
+
+print("posso dirigir? ", "Sim" if dirigir else "Não")
