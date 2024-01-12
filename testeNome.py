@@ -15,4 +15,8 @@ if idade >= 18:
 else:
     dirigir = False
 
+animais = 'Gatos'
+
 print(idade)
+
+print(f'Tenho esses animais: {animais}')
