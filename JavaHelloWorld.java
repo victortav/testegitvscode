@@ -1,4 +1,5 @@
 package testegitvscode;
+
 public class JavaHelloWorld {
 
     static Integer numero = 2;
@@ -16,5 +17,6 @@ public class JavaHelloWorld {
         }
         System.out.println("Hello World " + numero2 + numero3);
 
+        System.out.println("Finalizado.");
     }
 }
